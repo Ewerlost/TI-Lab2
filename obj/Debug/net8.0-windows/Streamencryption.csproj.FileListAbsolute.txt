@@ -1,0 +1,16 @@
+D:\C#\TI\Lab2\Streamencryption\bin\Debug\net8.0-windows\Streamencryption.exe
+D:\C#\TI\Lab2\Streamencryption\bin\Debug\net8.0-windows\Streamencryption.deps.json
+D:\C#\TI\Lab2\Streamencryption\bin\Debug\net8.0-windows\Streamencryption.runtimeconfig.json
+D:\C#\TI\Lab2\Streamencryption\bin\Debug\net8.0-windows\Streamencryption.dll
+D:\C#\TI\Lab2\Streamencryption\bin\Debug\net8.0-windows\Streamencryption.pdb
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.Form1.resources
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.csproj.GenerateResource.cache
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.AssemblyInfoInputs.cache
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.AssemblyInfo.cs
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.csproj.CoreCompileInputs.cache
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.dll
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\refint\Streamencryption.dll
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.pdb
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\Streamencryption.genruntimeconfig.cache
+D:\C#\TI\Lab2\Streamencryption\obj\Debug\net8.0-windows\ref\Streamencryption.dll
